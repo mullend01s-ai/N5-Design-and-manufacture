@@ -1,0 +1,1 @@
+Clients are people that want you to make a [[product]] for them. They will provide a [[design brief]] that outlines the requirements of the project and any limitations on requirements. 
