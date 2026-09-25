@@ -15,3 +15,5 @@ Example
 - A company which specialises in children’s toys has asked for a new and innovative design for a learning toy for a toddler.
 - It should include the opportunity for the child to learn about numbers, letters, colours or a combination of these elements.
 - The toy should be inspired by the [[theme]] ‘in the wild’, have some form of movement included and develop the child’s hand eye coordination.
+
+See the linked presentation for more information on design briefs https://www.canva.com/design/DAHU4JHCrpY/dAMz_WuDH63ktL4WS4wKAA/edit
