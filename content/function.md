@@ -1,0 +1,1 @@
+Function is a [[design-factors]] Function is all about how a [[product]] works. Function is the core purpose, utility or task the product is designed to do

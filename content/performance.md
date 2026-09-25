@@ -1,0 +1,3 @@
+Performance is how well a product carries out its [[function]]. A product that has good performance will carry out its function well, whereas a product with bad performance will still perform its function, but not in an effective way.
+
+For example, a kettle with bad performance will be slow to boil water, can only boil a small amount of water at a time and heat up the water to a lukewarm temperature. A good performing Kettle will boil water fast to a high heat and can boil a large amount of water.
