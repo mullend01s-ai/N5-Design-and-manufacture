@@ -36,7 +36,7 @@ configuration:
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#1e3a8a"
+        secondary: "#04D9FF"
         tertiary: "#15803d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
