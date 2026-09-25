@@ -1,2 +1,0 @@
-Colour is used to evoke emotions, thoughts and establish [[brand identity]].
-It can be used in [[harmony]] with other colours to create a more pleasing product, but it can also be put in [[contrast]] to emphasise certain features.

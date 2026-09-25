@@ -1,1 +1,0 @@
-Aesthetics is a [[design-factors]] , it relates to how a product looks. It could be to do with [[colour]], [[form]], [[theme]], [[materials]] or [[texture]]. 
